@@ -50,5 +50,4 @@ Berikut Fotonya
 <img width="958" alt="tugas marco" src="https://user-images.githubusercontent.com/46925946/52721406-329d7000-2fdc-11e9-9af3-d75d881fc5d4.PNG">
 
 Berikut hasilnya
-
 ![screenshot 2](https://user-images.githubusercontent.com/46925946/52721729-e1da4700-2fdc-11e9-8fdc-61c644d6cb4e.png
