@@ -45,3 +45,7 @@ Bilangan Kedua yang menjadi bilangan terbesar. 2
 Bilangan Ketiga sebagai bilangan terbesar. 3
 
 TERIMA KASIH.
+
+Berikut Fotonya
+
+<img width="958" alt="tugas marco" src="https://user-images.githubusercontent.com/46925946/52721406-329d7000-2fdc-11e9-9af3-d75d881fc5d4.PNG">
